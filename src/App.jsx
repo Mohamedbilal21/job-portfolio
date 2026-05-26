@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
+import Hero from "./components/Hero_UP";
 import About from "./components/About";
 import TechStack from "./components/TechStack";
 import CaseStudies from "./components/CaseStudies";
