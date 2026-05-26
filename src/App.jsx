@@ -22,7 +22,7 @@ function App() {
         <Contact />
       </main>
       <footer className="border-t border-zinc-800 py-6 text-center text-sm text-zinc-500">
-        © {new Date().getFullYear()} — IT Support Specialist & Software Engineer Trainee. Open to UAE, Middle East, India.
+        © {new Date().getFullYear()} — IT Support Specialist & Software Engineer Trainee.
       </footer>
     </>
   );
