@@ -25,12 +25,7 @@ export default function About() {
           <strong className="text-zinc-300"> {" "}software development and production-grade automation</strong> while continuing to<strong className="text-zinc-300">
             {" "} strengthen my expertise in IT operational support, enterprise systems, and workflow automation.</strong></p>
         <p className="text-zinc-400 leading-relaxed">
-          I care about system design, monitoring, and measurable impact—and I’m
-          <strong className="text-zinc-300">
-            {" "}
-            open to opportunities in UAE, Middle East, and India
-          </strong>
-          , including remote and relocation.
+          I care about system design, monitoring, and measurable impact.
         </p>
       </div>
     </section>
